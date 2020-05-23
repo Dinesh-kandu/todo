@@ -1,0 +1,16 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "a todo app with mern stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "dinesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.15",
+    "nodeman": "^1.1.2"
+  }
+}
